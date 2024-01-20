@@ -22,5 +22,5 @@ In this Scrimba Front-End Developer Program guided project, I developed a satiri
 Clone the repository and open `index.html` in your web browser to engage with the mock cookie consent form.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://preeminent-rabanadas-6ea3a0.netlify.app/)
 
